@@ -7,4 +7,4 @@
 6 - https://www.linkedin.com/posts/cs-community_coding-cs-community-activity-6726499623734779904-tLQA <br/>
 7 - https://www.linkedin.com/posts/cs-community_coding-cs-community-activity-6727211101794144256-L4Y1 <br/>
 
-### Here it is flowchart I had made to guide student how to start Competitive Programming - https://whimsical.com/cp-flowchart-P7sNhtwEQgG6wofV3niLKE
+### Here it is a flowchart that I had made to guide students how to get started with Competitive Programming - https://whimsical.com/cp-flowchart-P7sNhtwEQgG6wofV3niLKE
